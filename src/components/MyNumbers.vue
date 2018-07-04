@@ -16,7 +16,7 @@
 
 <script>
 export default {
-  name: "ChildComponent",
+  name: "MyNumbers",
   props: {
     numbers: Array
   },
