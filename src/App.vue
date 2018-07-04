@@ -23,7 +23,7 @@ export default {
   data() {
     return {
       numbers: [999, 998, 997]
-    };
+    }
   }
 }
 </script>
