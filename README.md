@@ -1,6 +1,9 @@
 # vue-state-example-mynumbers
 Example project for handling state in VueJS
 
+## Watchout
+* This project uses VueJS v3. As of 2021 this is an outdated version of VueJS.
+
 ## 1. check it out
 git clone https://github.com/nvsx/vue-state-example-mynumbers.git
 
